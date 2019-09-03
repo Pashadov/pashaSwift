@@ -54,5 +54,4 @@ while i < 6 {
     i += 1
     count = count + (count * percent)/100
 }
-
 print ("The result, after five years is: \(count))")
